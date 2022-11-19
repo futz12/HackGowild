@@ -69,7 +69,7 @@
 {"result":true} // 成功
 ```
 
-# /pause 停止朗读 POST {}
+# /pause 停止跳舞动画 POST {}
 
 返回
 ```
