@@ -11,7 +11,7 @@ Beta进度：
 
 3.抓取调试面板接口(简单文档已完成)
 
-4.桌面资源导出(unity资源导出.7z)
+4.桌面/调试面板资源导出(unity资源导出.7z/evedebug.zip)
 
 特别鸣谢：
 https://github.com/66hh
