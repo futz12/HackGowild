@@ -1,31 +1,31 @@
-# ÍøÒ³api
+# ç½‘é¡µapi
 
-# /getMac
-»ñÈ¡Éè±¸MacµØÖ·
+# /getMac POST {}
+è·å–è®¾å¤‡Macåœ°å€
 
-# /login
-µÇÂ¼
+# /login POST {"password":åå°å¯†ç }
+ç™»å½•
 
-# /hardwareInfo
-»ñÈ¡Éè±¸×´Ì¬
+# /hardwareInfo POST {}
+è·å–è®¾å¤‡çŠ¶æ€
 
-# /connect
-»ñÈ¡Á¬½ÓĞÅÏ¢
+# /connect POST {}
+è·å–è¿æ¥ä¿¡æ¯
 
-# /connectClear
-»Ö¸´Ä¬ÈÏÁ¬½Ó
+# /connectClear POST {}
+æ¢å¤é»˜è®¤è¿æ¥
 
-# /connectSet
-ĞŞ¸ÄÁ¬½ÓĞÅÏ¢
+# /connectSet POST {"address":åœ°å€}
+ä¿®æ”¹è¿æ¥ä¿¡æ¯
 
-# /engineSet
-TTSÒıÇæÉèÖÃ
+# /engineSet POST {"engine":å¼•æ“}
+TTSå¼•æ“è®¾ç½®
 
-# /dance
-çúçêÌøÎè¶¯»­
+# /dance POST {"name":åŠ¨ä½œå}
+ç¥ç€è·³èˆåŠ¨ç”»
 
-# /speakText
-ÀÊ¶ÁÎÄ±¾
+# /speakText POST {"text":æ–‡æœ¬}
+æœ—è¯»æ–‡æœ¬
 
-# /pause
-Í£Ö¹ÀÊ¶Á
+# /pause POST {}
+åœæ­¢æœ—è¯»
